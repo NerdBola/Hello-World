@@ -1,0 +1,1 @@
+x=msgbox("serio, sem meme, porque tu fez isso?" ,16, "mano porque tu abriu isso?")
